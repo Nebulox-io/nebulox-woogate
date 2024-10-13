@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nebulox\n"
+"Report-Msgid-Bugs-To: support@nebulox.io\n"
+"POT-Creation-Date: 2024-09-23 09:13+0000\n"
+"PO-Revision-Date: 2024-09-23 14:36+0330\n"
+"Last-Translator: Nebulox corp <info@nebulox.io>\n"
+"Language-Team: Nebulox Team\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: nebuloxWoogate\n"
+
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+msgid "Enable/Disable Nebulox Gateway"
+msgstr "Nebulox Gateway aktivieren/deaktivieren"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Payment method description shown in the Checkout"
+msgstr "Beschreibung der Zahlungsmethode, die im Checkout angezeigt wird"
+
+msgid "Complete Order on Status"
+msgstr "Bestellung abschließen bei Status"
+
+msgid "Completed"
+msgstr "Vollendet"
+
+msgid "Processing"
+msgstr "Verarbeitung"
+
+msgid "The order status to be set when payment is completed."
+msgstr "Der Bestellstatus, der nach Abschluss der Zahlung gesetzt werden soll."
+
+msgid "API Key"
+msgstr "API Key"
+
+msgid "API key you get from our site."
+msgstr "Den API-Schlüssel können Sie von unserer Site erhalten."
+
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#, fuzzy
+msgid "Read this <a href='https://nebulox.io/plugins/woocommerce' target='_blank'>instruction</a> to implement your first gateway"
+msgstr "Lesen Sie diese <a href='https://nebulox.io/plugins/woocommerce' target='_blank'>Anleitung</a>, um Ihr erstes Gateway zu implementieren"
+
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+msgid "If you don't have the Thank You page after checkout, we recommend you use this URL when creating a gateway."
+msgstr "Wenn Sie nach dem Bezahlvorgang nicht über die Danke-Seite verfügen, empfehlen wir Ihnen, beim Erstellen eines Gateways diese URL zu verwenden."
