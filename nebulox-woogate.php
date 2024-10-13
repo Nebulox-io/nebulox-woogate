@@ -40,7 +40,7 @@ const NCGIO_NEBULOX_SUPPORTED_CURRENCY = array(
 	'EUR' => 'EUR',
 );
 define( 'NCGIO_NEBULOX_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
-const NCGIO_NEBULOX_CREATE_INVOICE_API = 'https://nebulox-backend-core-api-stage.nginhub.com/api/invoice/create';
+const NCGIO_NEBULOX_CREATE_INVOICE_API = 'https://api.nebulox.io/api/invoice/create';
 /**
  * Initialize Nebulox Gateway for WooCommerce.
  *
